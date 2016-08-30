@@ -27,3 +27,16 @@ C:\Users\DELL\Desktop\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien
 C:\Users\DELL\Desktop\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.pdb
 C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.exe
 C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.pdb
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\MainWindow.baml
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QLDiem.baml
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\MainWindow.g.cs
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QLDiem.g.cs
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\App.g.cs
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien_MarkupCompile.cache
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.g.resources
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb

@@ -18,7 +18,7 @@ namespace QuanLySinhVien
             DataTable dt = new DataTable();
             dt.Load(dr);
             return dt;
-            conn.Close();
+            
 
         }
         public void InsertSinhVien(string maSV, string hoTen, string ngaySinh, string gioiTinh, string noiSinh, string danToc, string maLop)

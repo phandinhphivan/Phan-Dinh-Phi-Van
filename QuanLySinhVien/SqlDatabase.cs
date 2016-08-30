@@ -12,7 +12,7 @@ namespace QuanLySinhVien
             get
             {
                 SqlConnection conn = new SqlConnection();
-                conn.ConnectionString = @"Server = DELL-PC\SQLEXPRESS; Database = QLSINHVIEN; Integrated security = true";
+                conn.ConnectionString = @"Server =.; Database = QLSINHVIEN; Integrated security = true";
                 return conn;
             }
         }
