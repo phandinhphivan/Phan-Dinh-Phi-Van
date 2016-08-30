@@ -25,3 +25,5 @@ C:\Users\DELL\Desktop\Compressed\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\Qua
 C:\Users\DELL\Desktop\Compressed\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
 C:\Users\DELL\Desktop\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.exe
 C:\Users\DELL\Desktop\QuanLySinhVien\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.pdb
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.exe
+C:\Users\A Tung\Desktop\WPF\Phan-Dinh-Phi-Van\QuanLySinhVien\obj\x86\Debug\QuanLySinhVien.pdb
