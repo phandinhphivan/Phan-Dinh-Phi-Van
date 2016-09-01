@@ -81,5 +81,33 @@ namespace QuanLySinhVien
             }
 
         }
+
+        private void button4_Click(object sender, RoutedEventArgs e)
+        {
+            txtmaSV.IsEnabled = false;
+            DataRowView data_select = (DataRowView)dgvSinhVien.SelectedItem;
+            txtmaSV.Text = data_select["maSV"].ToString();
+            txthoTen.Text = data_select["hoTen"].ToString();
+            timengaySinh.Text = data_select["ngaySinh"].ToString();
+            txtgioiTinh.Text = data_select["gioiTinh"].ToString();
+            txtnoiSinh.Text = data_select["noiSinh"].ToString();
+            txtdanToc.Text = data_select["danToc"].ToString();
+            txtmaLop.Text = data_select["maLop"].ToString();
+        }
+
+        private void btnSave_Click(object sender, RoutedEventArgs e)
+        {
+            string maSV = txtmaSV.Text;
+            string hoTen = txthoTen.Text;
+            string ngaySinh = timengaySinh.Text;
+            string gioiTinh = txtgioiTinh.Text;
+            string noiSinh = txtnoiSinh.Text;
+            string danToc = txtdanToc.Text;
+            string maLop = txtmaLop.Text;
+
+            SV.UpdateSinhVien(maSV, hoTen, ngaySinh, gioiTinh, noiSinh, danToc, maLop);
+            DataTable dt = SV.DanhSachSinhVien();
+            dgvSinhVien.ItemsSource = dt.DefaultView;
+        }
     }
 }

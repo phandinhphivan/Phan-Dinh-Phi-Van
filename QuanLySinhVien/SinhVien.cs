@@ -23,5 +23,9 @@ namespace QuanLySinhVien
         {
             dal.DeleteSinhVien(maSV);
         }
+        public void UpdateSinhVien(string maSV, string hoTen, string ngaySinh, string gioiTinh, string noiSinh, string danToc, string maLop)
+        {
+            dal.UpdateSinhVien(maSV, hoTen, ngaySinh, gioiTinh, noiSinh, danToc, maLop);
+        }
     }
 }
